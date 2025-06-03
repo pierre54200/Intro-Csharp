@@ -1,0 +1,14 @@
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/bin/Debug/net8.0/IntroCsharp
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/bin/Debug/net8.0/IntroCsharp.deps.json
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/bin/Debug/net8.0/IntroCsharp.runtimeconfig.json
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/bin/Debug/net8.0/IntroCsharp.dll
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/bin/Debug/net8.0/IntroCsharp.pdb
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.AssemblyInfoInputs.cache
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.AssemblyInfo.cs
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.csproj.CoreCompileInputs.cache
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.dll
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/refint/IntroCsharp.dll
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.pdb
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/IntroCsharp.genruntimeconfig.cache
+/home/pierre-m/delivery/project/Intro-C#/IntroCsharp/obj/Debug/net8.0/ref/IntroCsharp.dll
